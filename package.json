@@ -1,6 +1,6 @@
 {
   "name": "covefe",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Converts text to trumptext™",
   "main": "index.js",
   "bin": {
