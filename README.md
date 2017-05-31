@@ -4,9 +4,13 @@ A node module that converts streams of text into Trump-talk.
 
 ## Installation
 
+Install using yarn:
+
 ```shell
 yarn add covefe
 ```
+
+Install using npm:
 
 ```shell
 npm install covefe
